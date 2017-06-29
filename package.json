@@ -1,0 +1,35 @@
+{
+  "name": "canvas_ps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack -w"
+  },
+  "author": "kellenren",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/node": "^7.0.18",
+    "@types/rc-tree": "^1.4.3",
+    "@types/react": "^15.0.24",
+    "@types/react-codemirror": "^0.2.6",
+    "@types/react-dom": "^15.5.0",
+    "awesome-typescript-loader": "^3.1.3",
+    "axios": "^0.16.2",
+    "css-loader": "^0.28.1",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "node-sass": "^4.5.2",
+    "rc-tree": "^1.5.0",
+    "react": "^15.5.4",
+    "react-codemirror": "^1.0.0",
+    "react-dom": "^15.5.4",
+    "react-flexbox-grid": "^1.1.3",
+    "sass-loader": "^6.0.5",
+    "source-map-loader": "^0.2.1",
+    "style-loader": "^0.17.0",
+    "typescript": "^2.3.2",
+    "webpack": "^2.5.1",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
